@@ -1,0 +1,8 @@
+dependencies: /Users/andyyang/Desktop/TreeMaker/mac/../Source/tmHeader.h \
+  /Users/andyyang/Desktop/TreeMaker/Source/tmModel/wnlib/random/wnrflt.c \
+  /Users/andyyang/Desktop/TreeMaker/Source/tmModel/wnlib/low/wnlib.h \
+  ../Source/tmModel/wnlib/low/wnport.h \
+  ../Source/tmModel/wnlib/low/wncons.h \
+  ../Source/tmModel/wnlib/low/wnerr.h \
+  ../Source/tmModel/wnlib/random/wnrnd.h \
+  ../Source/tmModel/wnlib/random/wnrndd.h

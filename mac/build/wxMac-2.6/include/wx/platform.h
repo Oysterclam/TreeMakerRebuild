@@ -13,6 +13,11 @@
 #ifndef _WX_PLATFORM_H_
 #define _WX_PLATFORM_H_
 
+/* hardcoded using cocoa*/
+#    ifndef __WXOSX_COCOA__
+#        define __WXOSX_COCOA__ 1
+
+
 #ifdef __WXMAC_XCODE__
 #    include <unistd.h>
 #    include <TargetConditionals.h>

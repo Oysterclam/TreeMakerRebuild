@@ -36,7 +36,7 @@ if [ ! -d build-release ]; then
   mkdir build-release
 fi
 cd build-release
-../configure --with-mac --enable-monolithic --disable-shared --enable-std_iostreams --enable-std_string
+../configure --with-mac --with-osx_cocoa --enable-universal-binary --enable-monolithic --disable-shared --enable-std_iostreams --enable-std_string
 
 echo "Compiling wxMac (release)..."
 make

@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regcomp.c \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regguts.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regcustom.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/defs.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/platform.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/compiler.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/setup.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/chkconf.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/osx/chkconf.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/osx/cocoa/chkconf.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/unix/chkconf.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/version.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/cpp.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/dlimpexp.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/types.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/features.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/chartype.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/include/wx/wxcrtbase.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regex.h \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regc_lex.c \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regc_color.c \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regc_nfa.c \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regc_cvec.c \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/regc_locale.c \
+  /Users/andyyang/Desktop/TreeMaker/mac/build/wxMac-2.6/src/regex/tclUniData.c
